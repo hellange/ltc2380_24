@@ -1,1 +1,1 @@
-# ltc2380_24
+# Saving som experimental work for testing LTC2380-24 DAC. Based on the code from Analog Device linduino. Modified to run standalone without linduino platform. Plan is to move this over to the poormanssmu project.
